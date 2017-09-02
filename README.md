@@ -1,4 +1,4 @@
-# movie-rental-system
+# Movie-Rental-System
 <b>Translation of the system in English language is in progress.</b>System have Desktop and Web application.
 
 The project facilitates the work of film rental firms.The project is made in Java programming language. It consists of 2 parts:
