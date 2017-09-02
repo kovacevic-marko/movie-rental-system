@@ -11,6 +11,7 @@ The project facilitates the work of film rental firms.The project is made in Jav
 
 <br><h2>Application screenshots:</h2>
 
+<h3>Desktop application:</h3>
 
 Login page:<br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/DesktopLogin.png" />
