@@ -1,5 +1,7 @@
 # movie-rental-system
-Translation of the system in English language is in progress.System have Desktop and Web application.
+<b>Translation of the system in English language is in progress.</b>System have Desktop and Web application.
+
+The project facilitates the work of film rental firms.
 
 <b>Application screenshots:</b>
 
