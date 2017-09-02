@@ -3,5 +3,5 @@ Translation of the system in English language is in progress.System have Desktop
 
 Application screenshots:
 
-<b>Login page:</b>
+<b>Login page:</b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/DesktopLogin.png" />
