@@ -3,7 +3,7 @@ Translation of the system in English language is in progress.System have Desktop
 
 <b>Application screenshots:</b>
 
-<center>
+
 Login page:<br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/DesktopLogin.png" />
 
@@ -13,4 +13,3 @@ Find movie page:<br>
 
 Rental movie page:<br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/Desktop2.png" />
-</center>
