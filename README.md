@@ -9,6 +9,8 @@ The project facilitates the work of film rental firms.The project is made in Jav
 
 <b>*MySQL database</b> is set up on online hosting to allow users to book a movie. Both applications use the same database.
 
+
+
 <b>Application screenshots:</b>
 
 
