@@ -57,4 +57,4 @@ The project facilitates the work of film rental firms.The project is made in Jav
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web6.png" />
 
 
-This is my #2 application.Release date: May 2017.
+This is my #2 application.Release date: June 2017.
