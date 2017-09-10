@@ -13,12 +13,22 @@ The project facilitates the work of film rental firms.The project is made in Jav
 
 <h3>Desktop application:</h3>
 
-Login page:<br>
+<b>Login page:<b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/DesktopLogin.png" />
 
 
-Find movie page:<br>
+<b>Find movie page:</b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/Desktop1.png" />
 
-Rental movie page:<br>
+<b>Rental movie page:</b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/Desktop2.png" />
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/desktop4.png" />
+
+<b>Return back movie page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/desktop7.png" />
+
+<b>Edit user page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/desktop6.png" />
+
+<b>Change security code page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/desktop5.png" />
