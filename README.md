@@ -11,7 +11,7 @@ The project facilitates the work of film rental firms.The project is made in Jav
 
 <br><h2>Application screenshots:</h2>
 
-<h3>Desktop application:</h3>
+<h3>DESKTOP application:</h3>
 
 <b>Login page:<b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/DesktopLogin.png" />
@@ -32,3 +32,26 @@ The project facilitates the work of film rental firms.The project is made in Jav
 
 <b>Change security code page:</b><br>
 <img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/desktop5.png" />
+
+
+
+<br>
+<h3>WEB application:</h3>
+
+<b>Login page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web1.png" />
+
+<b>User page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web2.png" />
+
+<b>Available movies page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web3.png" />
+
+<b>Reserve movie page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web4.png" />
+
+<b>Successfully reserved movie page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web5.png" />
+
+<b>Unuccessfully reserved movie page:</b><br>
+<img src="https://raw.githubusercontent.com/kovacevic-marko/Movie-Rental-System/master/Screenshots/web6.png" />
