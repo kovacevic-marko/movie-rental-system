@@ -8,6 +8,7 @@ The project facilitates the work of film rental firms.The project is made in Jav
 <b>*The second part</b> consists of the Web application (Servlet-Apache Tomcat server) which, in addition to the part available for everyone, contains a part that is only available to registered users of the Video Club .. It serves for Online movie reservation. The film's duration is 24 hours (the MySQL database is set up Event that every 24 hours cancels reservations if they last more than 24 hours) and one user can reserve only one movie ...
 
 <b>*MySQL database</b> is set up on online hosting to allow users to book a movie. Both applications use the same database.
+To run project you must host MySQL database.
 
 <br><h2>Application screenshots:</h2>
 
